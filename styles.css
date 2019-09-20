@@ -37,12 +37,24 @@ body, html{
     background-color: black;   
 }
 
+.aqua{
+    background-color: aqua;
+}
+
 .right{
     float: right;
 }
 
+.midnightblue{
+    background-color: midnightblue;
+}
+
+.left{
+    float: left;
+}
+
 #divider1 {
-    height: 400px;
+    height: 290px;
     width: 10px;
 }
 
@@ -65,11 +77,39 @@ body, html{
     height: 110px;
 }
 
-#bottomright1{
-    height: 100px;
-}
-
 #divider3{
     height: 100px;
-    width: 
+    width: 10px;
+}
+
+#bottomleft{
+    height: 100px;
+    width: 100px;
+}
+
+#divider4{
+    height: 100px;
+    width: 10px;
+}
+
+#bottommid{
+    height: 100px;
+    width: 180px;
+}
+
+#divider5{
+    height: 10px;
+    width: 100px;
+}
+
+#bottomright1{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+}
+
+#bottomright2{
+    height: 50px;
+    width: 100px;
+    background-color: green;
 }
